@@ -20,7 +20,7 @@ Always open to connecting and discussing all things security!
 
 ## 🌐 Connect with Me
 
-*   **Website**: [https://pranavhivarekar.in](https://pranavhivarekar.in)
+*   **Website**: [https://pranavhivarekar.com](https://pranavhivarekar.com)
 *   **LinkedIn**: [https://linkedin.com/in/pranavhivarekar](https://linkedin.com/in/pranavhivarekar)
 *   **GitHub**: [https://github.com/pranav1hivarekar](https://github.com/pranav1hivarekar)
 
