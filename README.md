@@ -1,29 +1,14 @@
 ## Hi there, I'm **Pranav Hivarekar**  👋
 
-Welcome to my corner of GitHub! I'm a Security Engineer with 7+ years of experience, passionate about building and securing digital fortresses.
+Welcome to my corner of GitHub! 
 
-My expertise revolves around:
-- ☁️ Cloud Security: AWS, GCP, Azure, Kubernetes, Terraform
-- 🚀 DevSecOps: Shifting security left, CI/CD pipelines, automation
-- 🔒 Application Security: Web, API, Mobile, Pen Testing
-- 🧠 Threat Modeling: STRIDE
-- 📊 Data Security: Protecting sensitive info, encryption, data governance
+Senior Security Engineer with 7+ years of proven expertise across Application Security, Cloud Security, DevSecOps, and Offensive Security, including Product Security and Penetration Testing.
 
-I also hold professional certifications with this. 
+Certifications - CISSP (Certified Information Systems Security Professional), AWS Certified Security – Specialty, and Certified DevSecOps Professional. 
 
-I love diving deep into security challenges, automating everything I can, and contributing to a safer digital world. You'll find me exploring new vulnerabilities, building secure infrastructure, and tinkering with Python to make security smarter.
+Experienced in identifying critical vulnerabilities, performing secure code reviews and threat modeling, building secure CI/CD pipelines, and developing automation to streamline security testing and vulnerability management.
 
-I'm a big fan of Terraform for automated, secure deployments.
-
-Always open to connecting and discussing all things security!
-
-
-## 🌐 Connect with Me
-
-*   **Website**: [https://pranavhivarekar.com](https://pranavhivarekar.com)
-*   **LinkedIn**: [https://linkedin.com/in/pranavhivarekar](https://linkedin.com/in/pranavhivarekar)
-*   **GitHub**: [https://github.com/pranav1hivarekar](https://github.com/pranav1hivarekar)
-
+Always open to connecting and collaborating on security projects.
 
 <!--
 **pranav1hivarekar/pranav1hivarekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
