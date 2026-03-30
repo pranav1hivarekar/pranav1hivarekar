@@ -1,26 +1,52 @@
-## Hi there, I'm **Pranav Hivarekar**  👋
+## Hi, I'm Pranav Hivarekar 👋
 
-Welcome to my corner of GitHub! 
+**Application Security Engineer | DevSecOps | AWS Cloud Security | CISSP**
 
-Senior Security Engineer with 7+ years of proven expertise across Application Security, Cloud Security, DevSecOps, and Offensive Security, including Product Security and Penetration Testing.
+I work at the intersection of how software gets built and how it gets broken. 7+ years in application security — from finding bugs in Facebook and Slack to embedding security into engineering pipelines at Bugcrowd.
 
-Certifications - CISSP (Certified Information Systems Security Professional), AWS Certified Security – Specialty, and Certified DevSecOps Professional. 
+---
 
-Experienced in identifying critical vulnerabilities, performing secure code reviews and threat modeling, building secure CI/CD pipelines, and developing automation to streamline security testing and vulnerability management.
+### 🔧 What I Build
 
-Always open to connecting and collaborating on security projects.
+| Area | Tools & Technologies |
+|---|---|
+| DevSecOps Pipelines | Jenkins, GitHub Actions, OWASP ZAP, TruffleHog, Bandit, Safety, Checkov, Trivy |
+| Cloud Security | AWS, Terraform, IAM, Secrets Manager, ECR |
+| Secure Code Review | Semgrep, Bandit, manual review — Python, JavaScript, Java |
+| Threat Modeling | STRIDE, security architecture reviews |
+| Scripting & Automation | Python, Bash, Shell |
 
-<!--
-**pranav1hivarekar/pranav1hivarekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎤 Talks & Presentations
+
+- **"Hacking OAuth 2.0"** — Bugcrowd LevelUp 0x02
+- **"Hacking Facebook"** — FIT Conference, Shanghai
+- **GraphQL Security** — Security conference presentation
+- **Privilege Escalation Methodology** — Security research talk
+- **Invited Speaker** — BountyCon by Facebook & Google
+
+---
+
+### 📜 Certifications
+
+![CISSP](https://img.shields.io/badge/CISSP-ISC2-blue?style=flat-square)
+![AWS Security](https://img.shields.io/badge/AWS-Security%20Specialty-FF9900?style=flat-square&logo=amazonaws)
+![DevSecOps](https://img.shields.io/badge/CDP-Certified%20DevSecOps%20Professional-green?style=flat-square)
+![Threat Modeling](https://img.shields.io/badge/Threat%20Modeling-Professional-red?style=flat-square)
+
+---
+
+### 📌 Featured Projects
+
+- 🔒 [**aws-devsecops-pipeline**](https://github.com/pranav1hivarekar/aws-devsecops-pipeline) — End-to-end DevSecOps pipeline with SAST, SCA, secrets scanning, IaC review, container scanning, and DAST wired into CI/CD on AWS
+- 🛡️ [**data-loss-prevention-DLP-aws-glue**](https://github.com/pranav1hivarekar/data-loss-prevention-DLP-aws-glue) — Automated DLP pipeline using AWS Glue and PySpark to detect and redact PII in S3 datasets
+
+---
+
+### 🌐 Find Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pranavhivarekar-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/pranavhivarekar)
+[![Website](https://img.shields.io/badge/Website-pranavhivarekar.com-black?style=flat-square)](https://pranavhivarekar.com)
+[![Twitter](https://img.shields.io/badge/Twitter-@HivarekarPranav-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/HivarekarPranav)
