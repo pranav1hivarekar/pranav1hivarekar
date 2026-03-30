@@ -21,8 +21,8 @@ I work at the intersection of how software gets built and how it gets broken. 7+
 
 ### 🎤 Talks & Presentations
 
-- **"Hacking OAuth 2.0"** — Bugcrowd LevelUp 0x02
-- **"Hacking Facebook"** — FIT Conference, Shanghai
+- **Hacking OAuth 2.0** — Bugcrowd LevelUp 0x02
+- **Hacking Facebook** — FIT Conference, Shanghai
 - **GraphQL Security** — Security conference presentation
 - **Privilege Escalation Methodology** — Security research talk
 - **Invited Speaker** — BountyCon by Facebook & Google
