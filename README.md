@@ -2,7 +2,7 @@
 
 **Application Security Engineer | DevSecOps | AWS Cloud Security | CISSP**
 
-I work at the intersection of how software gets built and how it gets broken. 7+ years in application security — from finding bugs in Facebook and Slack to embedding security into engineering pipelines at Bugcrowd.
+I work at the intersection of how software gets built and how it gets broken. 7+ years in application security — from finding bugs in Facebook and Slack to embedding security into engineering pipelines at enterprise.
 
 ---
 
