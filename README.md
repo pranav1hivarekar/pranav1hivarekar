@@ -30,6 +30,7 @@ I work at the intersection of how software gets built and how it gets broken. 7+
 ### 📌 Featured Projects
 
 - 🔒 [**aws-devsecops-pipeline**](https://github.com/pranav1hivarekar/aws-devsecops-pipeline) — End-to-end DevSecOps pipeline with SAST, SCA, secrets scanning, IaC review, container scanning, and DAST wired into CI/CD on AWS
+- 🛡️ [**threat-modeling**](https://github.com/pranav1hivarekar/threat-modeling) — STRIDE threat models for web applications and APIs — DFDs, threat analysis, and specific mitigations
 - 🛡️ [**data-loss-prevention-DLP-aws-glue**](https://github.com/pranav1hivarekar/data-loss-prevention-DLP-aws-glue) — Automated DLP pipeline using AWS Glue and PySpark to detect and redact PII in S3 datasets
 
 ---
