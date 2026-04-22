@@ -15,6 +15,8 @@ I work at the intersection of how software gets built and how it gets broken. 7+
 | Secure Code Review | Semgrep, Bandit, manual review — Python, JavaScript, Java |
 | Threat Modeling | STRIDE, security architecture reviews |
 | Scripting & Automation | Python, Bash, Shell |
+| Vulnerability Assessment & Penetration Testing | manual and automated |
+
 
 ---
 
