@@ -1,6 +1,6 @@
 ## Hi, I'm Pranav Hivarekar 👋
 
-**Application Security Engineer | DevSecOps | AWS Cloud Security | CISSP**
+**Application Security Engineer | DevSecOps | AWS Cloud Security **
 
 I work at the intersection of how software gets built and how it gets broken. 7+ years in application security — from vulnerability research on platforms like Facebook and Slack to embedding security into engineering pipelines at scale.
 
@@ -22,7 +22,6 @@ I work at the intersection of how software gets built and how it gets broken. 7+
 
 ### 📜 Certifications
 
-![CISSP](https://img.shields.io/badge/CISSP-ISC2-blue?style=flat-square)
 ![AWS Security](https://img.shields.io/badge/AWS-Security%20Specialty-FF9900?style=flat-square&logo=amazonaws)
 ![DevSecOps](https://img.shields.io/badge/CDP-Certified%20DevSecOps%20Professional-green?style=flat-square)
 ![Threat Modeling](https://img.shields.io/badge/Threat%20Modeling-Professional-red?style=flat-square)
